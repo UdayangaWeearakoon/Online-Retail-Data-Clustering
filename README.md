@@ -63,7 +63,7 @@ matplotlib / seaborn – data visualization
 
 ## 🚀 Getting Started
 1. Clone the Repository
-git clone https://github.com/YourUsername/YourRepoName.git
+git clone https://github.com/UdayangaWeearakoon/Online-Retail-Data-Clustering.git
 cd YourRepoName
 
 2. Install Dependencies
