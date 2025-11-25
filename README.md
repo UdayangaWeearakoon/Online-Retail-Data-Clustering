@@ -64,12 +64,13 @@ matplotlib / seaborn – data visualization
 ## 🚀 Getting Started
 1. Clone the Repository
 git clone https://github.com/UdayangaWeearakoon/Online-Retail-Data-Clustering.git
+
 cd YourRepoName
 
-2. Install Dependencies
+3. Install Dependencies
 pip install -r requirements.txt
 
-3. Run the Notebook
+4. Run the Notebook
 jupyter notebook or visual studio code
 
 ## 📌 Sample Code (Quick Preview)
