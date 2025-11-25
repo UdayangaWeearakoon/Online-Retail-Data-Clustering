@@ -30,6 +30,10 @@ Using KMeans, we can group customers into meaningful segments based on metrics l
 - Recency
 - Quantity purchased
 
+## 🔗LINKS
+Online Retail Dataset: https://archive.ics.uci.edu/dataset/502/online+retail+ii
+Online Retail Mining Whitepaper: https://link.springer.com/article/10.1057/dbm.2012.17
+
 ## 🧰 Tech Stack
 Python
 
